@@ -1,0 +1,2 @@
+This is first project of mine at Odin Course.
+THis is Git and HTML project, where I have used HTML tags and git command to push and create project to gitHub. I have used HTML tags such page, heading, unordered and ordered tags and so many more.
